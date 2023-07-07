@@ -41,10 +41,14 @@ https://theophanemayaud.github.io/video-simili-duplicate-cleaner/
 
 # Worth mentioning
 
-## video-comparer (Paid Closed Source Software/Windows)
+## video-comparer (Paid Closed Source Software/Windows) really good reviews on VideoHelp.net & Reddit
 Quote: "Video Comparer has unique duplicate detection features that you won't find in any other product. Only Video Comparer is able to detect quickly duplicate videos with image transformations (included scaled, cropped, rotated, …) and time shifted (included division into multiple clips).  The comparison powered by an robust “video fingerprint” technology considers only the content of videos, not the file attributes (name, size, …)."
 
 https://www.video-comparer.com
+
+## DuplicateVideoSearch (Closed-Source Windows GUI App)  by Russian Company
+Duplicate Video Search helps you locate and remove duplicate videos. Using rare video fingerprinting technology, DVS can locate copies regardless of aspect, format, quality or scale.
+https://duplicatevideosearch.com/contact/
 
 ## ndvr
 Near Duplicate Video Retrieval
