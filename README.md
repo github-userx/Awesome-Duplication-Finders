@@ -28,18 +28,23 @@ dupeGuru is a tool to find duplicate files on your computer. It can scan either 
 
 https://github.com/arsenetar/dupeguru/
 
-# Worth mentioning
+## Vidupe 
+Vidupe is a program that can find duplicate and similar video files. Normal duplicate file software only finds identical files. Vidupe looks at the actual video content regardless of different format and compression used (digital video fingerprinting.
+Simple, easy to use graphical user interface for comparing videos. Multithreaded operation, makes full use of all available CPU threads. Employs two powerful image comparison methods: pHash (perceptual hashing) and SSIM (structural similarity). Cross-platform development: source code available for compiling on Windows/Linux/macOS.
+
+https://github.com/kristiankoskimaki/vidupe
 
 ## video-simili-duplicate-cleaner (OpenSource, Cross-Plattform, MacOS/Windows paid binaries)
 Video simili duplicate cleaner is a program that can find duplicate or simply similar video files. Video simili duplicate cleaner compares the actual video content regardless of different format or compression used, while other software only find identical files (digital video fingerprinting). Employs two powerful image comparison methods: pHash (perceptual hashing) and SSIM (structural similarity
 
 https://theophanemayaud.github.io/video-simili-duplicate-cleaner/
 
-## Vidupe 
-Vidupe is a program that can find duplicate and similar video files. Normal duplicate file software only finds identical files. Vidupe looks at the actual video content regardless of different format and compression used (digital video fingerprinting.
-Simple, easy to use graphical user interface for comparing videos. Multithreaded operation, makes full use of all available CPU threads. Employs two powerful image comparison methods: pHash (perceptual hashing) and SSIM (structural similarity). Cross-platform development: source code available for compiling on Windows/Linux/macOS.
+# Worth mentioning
 
-https://github.com/kristiankoskimaki/vidupe
+## video-comparer (Paid Closed Source Software/Windows)
+Quote: "Video Comparer has unique duplicate detection features that you won't find in any other product. Only Video Comparer is able to detect quickly duplicate videos with image transformations (included scaled, cropped, rotated, …) and time shifted (included division into multiple clips).  The comparison powered by an robust “video fingerprint” technology considers only the content of videos, not the file attributes (name, size, …)."
+
+https://www.video-comparer.com
 
 ## ndvr
 Near Duplicate Video Retrieval
@@ -53,6 +58,5 @@ Users have a strong incentive to copy a trending short video & upload an augment
 Here, we have built a Neural Search solution using Jina to solve the challenge of NDVR.
 https://github.com/4ML-platform/ndvr
 
-## video-comparer (closed source paid software)
 
 
