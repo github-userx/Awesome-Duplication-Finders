@@ -59,5 +59,10 @@ Here, we have built a Neural Search solution using Jina to solve the challenge o
 
 https://github.com/4ML-platform/ndvr
 
+## SimilarImages (WindowsXP GUI App, from DownThemAll! Developer)
+SimilarImages is a utility program to analyze and search large media collections (images/videos) for near duplicates, meaning media showing the same thing but e.g. in different file formats, compression levels, sizes. SimilarImages first analyzes a file, generating a color/location footprint of a normalized thumbnail image of a file, and then compares these footprints. Analyzation results will be cached and stored on disk, so that subsequent runs become faster.
+SimilarImages is a rather old tool I started developing a long time ago. While it does the job at hand fairly well, due to the legacy code base it is not feasible to develop new features or significantly improved matching without a major effort, one which I cannot provide at the moment. Hence there will be no significant new features, incl. Windows 64-bit (32-bit runs on 64-bit Windows), Mac OSX or Linux versions. You might however have luck with WINE.
+
+https://tn123.org/simimages/
 
 
