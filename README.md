@@ -15,3 +15,9 @@ Apps to find duplicate files including same/similar images &amp; videos (with co
  Czkawka (tch•kav•ka (IPA: [ˈʧ̑kafka]), "hiccup" in Polish) is a simple, fast and free app to remove unnecessary files from your computer.
  
  https://github.com/qarmin/czkawka
+
+# Worth mentioning
+
+## ndvr
+
+https://github.com/4ML-platform/ndvr
