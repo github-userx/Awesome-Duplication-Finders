@@ -41,25 +41,22 @@ https://theophanemayaud.github.io/video-simili-duplicate-cleaner/
 
 # Worth mentioning
 
-## video-comparer (Paid Closed Source Software/Windows) really good reviews on VideoHelp.net & Reddit
+## video-comparer (Paid Closed Source Software/Windows) 20€, 30€, 100€   [really good reviews on VideoHelp.net & Reddit]
 Quote: "Video Comparer has unique duplicate detection features that you won't find in any other product. Only Video Comparer is able to detect quickly duplicate videos with image transformations (included scaled, cropped, rotated, …) and time shifted (included division into multiple clips).  The comparison powered by an robust “video fingerprint” technology considers only the content of videos, not the file attributes (name, size, …)."
 
 https://www.video-comparer.com
 
-## DuplicateVideoSearch (Closed-Source Windows GUI App)  by Russian Company
+## DuplicateVideoSearch (Closed-Source Windows GUI App / $30 / by Russian Company)
 Duplicate Video Search helps you locate and remove duplicate videos. Using rare video fingerprinting technology, DVS can locate copies regardless of aspect, format, quality or scale.
 https://duplicatevideosearch.com/contact/
 
 ## ndvr
 Near Duplicate Video Retrieval
-
-2nd Rank for the Neural Search Hackathon 🥈
-
+2nd Rank for the Neural Search Hackathon
 We have witnessed an explosive growth of video data in a variety of video sharing websites with billions of videos being available on the internet, it becomes a major challenge to perform near-duplicate video retrieval (NDVR) from a large-scale video database. NDVR aims to retrieve the near-duplicate videos from a massive video database, where near-duplicate videos are defined as videos that are visually close to the original videos.
-
 Users have a strong incentive to copy a trending short video & upload an augmented version to gain attention. With the growth of short videos, new difficulties and challenges for detecting near duplicate short videos appears.
-
 Here, we have built a Neural Search solution using Jina to solve the challenge of NDVR.
+
 https://github.com/4ML-platform/ndvr
 
 
