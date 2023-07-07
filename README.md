@@ -21,7 +21,19 @@ Videohash is a Python package for detecting near-duplicate videos (Perceptual Vi
 
 https://github.com/akamhy/videohash
 
+## DupeGuru
+dupeGuru is a cross-platform (Linux, OS X, Windows) GUI tool to find duplicate files in a system. It’s written mostly in Python 3 and has the peculiarity of using multiple GUI toolkits, all using the same core Python code. On OS X, the UI layer is written in Objective-C and uses Cocoa. On Linux & Windows, it’s written in Python and uses Qt5.
+
+dupeGuru is a tool to find duplicate files on your computer. It can scan either filenames or contents. The filename scan features a fuzzy matching algorithm that can find duplicate filenames even when they are not exactly the same. dupeGuru runs on Mac OS X and Linux.
+
+https://github.com/arsenetar/dupeguru/
+
 # Worth mentioning
+
+## video-simili-duplicate-cleaner (OpenSource, Cross-Plattform, MacOS/Windows paid binaries)
+Video simili duplicate cleaner is a program that can find duplicate or simply similar video files. Video simili duplicate cleaner compares the actual video content regardless of different format or compression used, while other software only find identical files (digital video fingerprinting). Employs two powerful image comparison methods: pHash (perceptual hashing) and SSIM (structural similarity
+
+https://theophanemayaud.github.io/video-simili-duplicate-cleaner/
 
 ## ndvr
 Near Duplicate Video Retrieval
@@ -35,4 +47,6 @@ Users have a strong incentive to copy a trending short video & upload an augment
 Here, we have built a Neural Search solution using Jina to solve the challenge of NDVR.
 https://github.com/4ML-platform/ndvr
 
-## ...
+## video-comparer (closed source paid software)
+
+
