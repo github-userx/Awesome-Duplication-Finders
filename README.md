@@ -19,5 +19,15 @@ Apps to find duplicate files including same/similar images &amp; videos (with co
 # Worth mentioning
 
 ## ndvr
+Near Duplicate Video Retrieval
 
+2nd Rank for the Neural Search Hackathon 🥈
+
+We have witnessed an explosive growth of video data in a variety of video sharing websites with billions of videos being available on the internet, it becomes a major challenge to perform near-duplicate video retrieval (NDVR) from a large-scale video database. NDVR aims to retrieve the near-duplicate videos from a massive video database, where near-duplicate videos are defined as videos that are visually close to the original videos.
+
+Users have a strong incentive to copy a trending short video & upload an augmented version to gain attention. With the growth of short videos, new difficulties and challenges for detecting near duplicate short videos appears.
+
+Here, we have built a Neural Search solution using Jina to solve the challenge of NDVR.
 https://github.com/4ML-platform/ndvr
+
+## ...
