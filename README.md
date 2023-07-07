@@ -35,6 +35,12 @@ Video simili duplicate cleaner is a program that can find duplicate or simply si
 
 https://theophanemayaud.github.io/video-simili-duplicate-cleaner/
 
+## Vidupe 
+Vidupe is a program that can find duplicate and similar video files. Normal duplicate file software only finds identical files. Vidupe looks at the actual video content regardless of different format and compression used (digital video fingerprinting.
+Simple, easy to use graphical user interface for comparing videos. Multithreaded operation, makes full use of all available CPU threads. Employs two powerful image comparison methods: pHash (perceptual hashing) and SSIM (structural similarity). Cross-platform development: source code available for compiling on Windows/Linux/macOS.
+
+https://github.com/kristiankoskimaki/vidupe
+
 ## ndvr
 Near Duplicate Video Retrieval
 
