@@ -16,6 +16,11 @@ Apps to find duplicate files including same/similar images &amp; videos (with co
  
  https://github.com/qarmin/czkawka
 
+## VideoHash
+Videohash is a Python package for detecting near-duplicate videos (Perceptual Video Hashing). It can take any input video and generate a 64-bit equivalent hash value. Videohash is way more faster than comparing the imagehash values of individual frames of the video and more reliable than hashing keyframes.  The video-hash-values for identical or near-duplicate videos are the same or similar, implying that if the video is resized (upscaled/downscaled), transcoded, watermark added/removed, stabilized, color changed, frame rate changed, changed aspect ratio, cropped, black-bars added or removed, the hash-value should remain unchanged or not vary substantially.
+
+https://github.com/akamhy/videohash
+
 # Worth mentioning
 
 ## ndvr
